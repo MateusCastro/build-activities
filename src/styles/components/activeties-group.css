@@ -1,0 +1,16 @@
+.activities-group .ant-timeline .ant-timeline-item:last-child .ant-timeline-item-tail {
+  display: none;
+}
+
+.activities-group .ant-timeline .ant-timeline-item .ant-timeline-item-tail {
+  border-left-width: 4px;
+  left: 3px;
+}
+
+.activities-group .ant-timeline .ant-timeline-item .ant-timeline-item-content {
+  margin-left: 50px;
+}
+
+.activities-group .ant-timeline .ant-timeline-item .ant-timeline-item-head-custom {
+  top: 12px;
+}
